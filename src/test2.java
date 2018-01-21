@@ -9,7 +9,6 @@ public class test2 {
 
 	public static void main(String[] args) {
 		System.out.println(getSum(4000000));
-		System.out.println(getSum(5));
 	}
 
 	static int getSum(int n) {
