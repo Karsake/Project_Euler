@@ -6,7 +6,7 @@ public class test1 {
 		y=getSum(5,1000);
 		z=getSum(15,1000);
 		System.out.println(x+y-z);
-		System.out.println(getSum(3,12));
+		//Êä³ö233168
 	}
 
 	static int getSum(int a,int b) {
