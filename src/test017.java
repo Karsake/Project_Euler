@@ -8,6 +8,7 @@ public class test017 {
 
 	public static void main(String[] args) {
 		//use excel to count
+		//21124
 
 	}
 
