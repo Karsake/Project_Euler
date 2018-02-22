@@ -8,6 +8,7 @@ public class test051 {
 	public static void main(String[] args) {
 		int temp=0;
 		int r;
+		//assume that the number is not greater than 1000000
 		int n=999999;
 		String numStr;
 		boolean mark=false;
