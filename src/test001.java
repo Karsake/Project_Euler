@@ -2,7 +2,7 @@
 //	The sum of these multiples is 23.
 //
 //	Find the sum of all the multiples of 3 or 5 below 1000.
-public class test1 {
+public class test001 {
 	public static void main(String[] args) {
 		int x,y,z;
 		x=getSum(3,1000);

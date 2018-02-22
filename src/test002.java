@@ -5,7 +5,7 @@
 //
 //By considering the terms in the Fibonacci sequence whose values do not exceed four million, 
 //	find the sum of the even-valued terms.
-public class test2 {
+public class test002 {
 
 	public static void main(String[] args) {
 		System.out.println(getSum(4000000));

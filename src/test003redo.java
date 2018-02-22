@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class test3redo {
+public class test003redo {
 
 	public static void main(String[] args) {
 		String str="600851475143";//if its not a prime number, there will be a factor small than 800000
