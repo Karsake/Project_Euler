@@ -64,10 +64,10 @@ public class test008 {
 			System.out.println(answer);
 	}
 
-	static long getProduct(String st) {
+	static long getProduct(String str) {
 		long p=1;
 		for(int i=0;i<13;i++) {
-			p=p*Integer.parseInt(st.substring(i, i+1));
+			p=p*Integer.parseInt(str.substring(i, i+1));
 		}
 		return p;
 	}
